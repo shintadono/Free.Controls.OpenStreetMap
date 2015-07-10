@@ -95,7 +95,6 @@
     <EmbeddedResource Include="zoompos.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include=".gitignore" />
     <Content Include="location_marker.png" />
     <EmbeddedResource Include="location_marker_small.png" />
   </ItemGroup>
